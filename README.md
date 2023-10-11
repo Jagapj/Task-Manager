@@ -1,3 +1,3 @@
-# Line-up
+# Task-Manger webpage
 
-click to visit: https://jagapj.github.io/Line-up/
+click to visit: https://jagapj.github.io/Task-Manager/
