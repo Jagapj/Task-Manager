@@ -5,8 +5,8 @@
 }
 
 body {
-  background-color: #0a09288d;
-  color: #444;
+  background-color:#ffe5d9;
+  color: #d8e2dc;
   font-family: "Poppins", sans-serif;
   display: flex;
   flex-direction: column;
@@ -39,7 +39,7 @@ form {
 }
 
 .input::placeholder {
-  color: #0d0c0c;
+  color: #9d8189;
 }
 
 .input:focus {
