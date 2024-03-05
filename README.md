@@ -1,3 +1,3 @@
 # Task-Manger webpage
 
-click to visit: https://jagapj.github.io/Task-Manager/
+Click-link to visit output: https://jagapj.github.io/Task-Manager/
